@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="ops-bg" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="44" height="44" rx="13" fill="url(#ops-bg)"/>
+  <g fill="#ffffff">
+    <rect x="22" y="7" width="4" height="8" rx="1.6"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(45 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(90 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(135 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(180 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(225 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(270 24 24)"/>
+    <rect x="22" y="7" width="4" height="8" rx="1.6" transform="rotate(315 24 24)"/>
+  </g>
+  <circle cx="24" cy="24" r="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+</svg>
